@@ -1,0 +1,11 @@
+package-lock.json
+node_modules
+.nyc_output
+*.log
+coverage
+coverage-old
+Makefile
+/fontconfig
+/data
+/assets
+/uploads/*
