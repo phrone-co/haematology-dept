@@ -1,0 +1,14 @@
+{
+  "_id": {
+    "$oid": "6694ec039b98f3bc36c7c310"
+  },
+  "email": "wikiyodo@gmail.com",
+  "fullName": "Opeyemi Orisatoberu",
+  "password": "$2a$10$Ev8e.xI3oyHwJJBb3uvgE.gGFpg5po.9KWJAu0ZnwGC9dR9EH8gfq",
+  "role": "admin",
+  "staffRank": "Director",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-09-21T02:55:51.872Z"
+  }
+}
